@@ -20,3 +20,6 @@ Bamboo is a commercial automation tool for continuous integration and delivery. 
 
 ## Rundeck
 Rundeck is an open-source automation tool for running tasks and workflows. It allows you to automate tasks such as software installation, configuration, and management of servers, networks, and cloud environments. Rundeck provides a web-based interface for running and scheduling tasks, and it can be integrated with other tools such as Ansible and Puppet to provide a complete automation solution.
+
+## Packer
+Packer is a tool for creating machine and container images for multiple platforms from a single source configuration. It is written in Go and works by automatically installing software, running provisioning scripts, and configuring the system according to a set of templates and build instructions. Packer can be used to create images for virtual machines, cloud providers, and containers. This makes it a great solution for automating the creation and management of infrastructure, whether it is for development, testing, or production environments. With Packer, you can define your infrastructure as code, and version and automate the creation of your images. This makes it easy to replicate and maintain your infrastructure, and also to rollback to previous versions if needed.
