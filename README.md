@@ -9,4 +9,4 @@ By making use of these cheatsheets, you should be able to quickly get up to spee
 
 In addition to the automation cheatsheets, this repository also includes cheatsheets for popular operating systems such as Linux and Windows. These cheatsheets cover basic commands and concepts that are important for managing and troubleshooting these systems. There are also cheatsheets for popular coding languages such as Python, JavaScript, and Ruby. These cheatsheets provide a quick reference for the syntax, common libraries, and best practices for working with these languages. So, this repository not only provide information about automation tools but also provide a comprehensive guide for different operating systems and coding languages.
 
-For more detailed explanation, take a look at our [Automation_Explained](./Automation_Explained/start_here.md) directory and start with the file named "start_here.md"
+For more detailed explanation, take a look at our [Automation_Explained](./Automation_Explained/) directory and start with the file named [start_here.md](./Automation_Explained/start_here.md)
