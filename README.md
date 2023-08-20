@@ -1,12 +1,11 @@
 # CheatSheets
 Cheatsheets for various things
 
-This repository contains a collection of cheatsheets that cover different automation tools and concepts. The goal is to provide a quick reference for small to mid-sized companies that are looking to automate their processes.
+This repository offers a number of cheatsheets covering various automation technologies and ideas. The purpose is to serve as a quick reference for small to medium-sized businesses wishing to automate their procedures.
 
-The cheatsheets cover topics such as Ansible, Chef, Jenkins, Packer, and more. They provide a brief overview of what the tool is, how it can be used, and some of the key concepts and commands. They are designed to be used as a quick reference, rather than a comprehensive guide.
+The cheatsheets include information on Ansible as well as Chef, Jenkins, Packer, and other subjects. They give an overview of the tools, features, capabilities, and some of the more important ideas and instructions. Instead of being a thorough manual, they are meant to be used as a quick reference.
 
-By making use of these cheatsheets, you should be able to quickly get up to speed on the tools and concepts that are important for automating your processes. Whether you're new to automation or a seasoned pro, these cheatsheets should help you get things done more efficiently and effectively.
+Using these cheat sheets, you should be able immediately to get acquainted with the tools and concepts required for automating your processes. regardless of whether you're new to automation or a seasoned veteran, these cheat sheets should help you get more done in a shorter period of time.
+In addition to the automation cheatsheets, this repository also includes cheatsheets for popular operating systems such as Linux and Windows. These cheat sheets cover basic commands and concepts that are important for managing and troubleshooting these systems. There are also cheat sheets for popular coding languages such as Python, JavaScript, and Ruby. These cheat sheets provide a quick reference for the syntax, common libraries, and best practices for working with these languages. So, this repository not only provides information about automation tools but also provides a comprehensive guide for different operating systems and coding languages.
 
-In addition to the automation cheatsheets, this repository also includes cheatsheets for popular operating systems such as Linux and Windows. These cheatsheets cover basic commands and concepts that are important for managing and troubleshooting these systems. There are also cheatsheets for popular coding languages such as Python, JavaScript, and Ruby. These cheatsheets provide a quick reference for the syntax, common libraries, and best practices for working with these languages. So, this repository not only provide information about automation tools but also provide a comprehensive guide for different operating systems and coding languages.
-
-For more detailed explanation, take a look at our [Automation_Explained](./Automation_Explained/) directory and start with the file named [start_here.md](./Automation_Explained/start_here.md)
+For a more detailed explanation, take a look at our [Automation_Explained](./Automation_Explained/) directory and start with the file named [start_here.md](./Automation_Explained/start_here.md)
